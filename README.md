@@ -10,7 +10,7 @@ Educated in mathematics and electrical engineering at KAIST, I’ve built a stro
 
 My work spans the full stack—from designing novel model architectures and scaling multi-node training, to deploying optimized inference pipelines for AI services. Lately, I’ve been exploring **test-time scaling strategies** for **high-quality, controllable, and efficient image generation** and **Multimodal AI** for **agent-based systems**.
 
-![AI Engineer Banner](https://github.com/user-attachments/assets/54d10ced-76c4-4c98-994d-4dcc64a7325e)
+![AI Research Engineer](https://github.com/user-attachments/assets/6260eb61-50d8-432e-9d78-d7d16515f099)
 
 ---
 
@@ -55,7 +55,7 @@ ComfyUI, Git, GitHub, Notion, Jira, Confluence, Cursor, MCP
 ### 👕 Virtual Try-On Platform — *NXN LABS*
 As a founding member of **NXN LABS**, I led the end-to-end development of a virtual try-on system for fashion.
 
-![Image](https://github.com/user-attachments/assets/8dd16698-75a1-460e-8d75-6f91d053ce1e)
+![2](https://github.com/user-attachments/assets/e58a83ec-3bc6-4be4-bc6d-0d47481d8a0a)
 
 - Built complete **data pipeline**: web crawling → pre-processing → human validation → DB structuring.
 - Designed generative architecture using **DiT + Flow Matching**, tailored for fine-grained control.
@@ -70,7 +70,7 @@ As a founding member of **NXN LABS**, I led the end-to-end development of a virt
 ### 🧑‍🎨 Virtual Human Generation — *NXN LABS*
 Built controllable and consistent virtual humans using 3D modeling and image generation.
 
-![Image](https://github.com/user-attachments/assets/5d638cff-f3c8-48a4-9e75-e1b88778826d)
+![3](https://github.com/user-attachments/assets/24ad4679-b295-41c6-ac3f-58ce34cd5592)
 
 - Used **SMPL** and **HMR** to map human mesh from 2D inputs.
 - Controlled pose/viewpoint in **Blender**, rendering synthetic 3D conditions.
@@ -84,7 +84,7 @@ Built controllable and consistent virtual humans using 3D modeling and image gen
 ### 🧬 Pathology Image Detection — *Lunit (Oncology Dept.)*
 Contributed as a research scientist intern to improve cancer detection with transformer architectures.
 
-![Image](https://github.com/user-attachments/assets/6145033f-d4ca-4a92-9140-909722a40e60)
+![4](https://github.com/user-attachments/assets/270b3755-fb20-4e18-b02c-10e585b8b5ca)
 
 - Introduced **ViT-based backbones** to replace CNNs, achieving significant accuracy improvements.
 - Designed **Multi-FoV Transformer** for better contextual field integration.
