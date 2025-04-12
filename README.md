@@ -2,7 +2,7 @@
 
 ---
 
-### [Resume (One Pager)](https://your-resume-link.com)
+### [Resume](https://drive.google.com/file/d/1fdgsm_EjQhm5kIEB5nb8YJDus7YK3yC_/view?usp=sharing)
 
 Hi, I’m SeungYong Lee, an AI research engineer with a passion for building practical systems across **computer vision**, **generative AI**, and **scalable infrastructure**. As a **founding member of an AI startup (NXN LABS)**, I’ve led full-stack development for production-level AI—from raw data collection and model design to large-scale training, deployment, and monitoring.
 
@@ -56,6 +56,8 @@ ComfyUI, Git, GitHub, Notion, Jira, Confluence, Cursor, MCP
 ### 👕 Virtual Try-On Platform — *NXN LABS*
 As a founding member of **NXN LABS**, I led the end-to-end development of a virtual try-on system for fashion.
 
+![Image](https://github.com/user-attachments/assets/8c3d31a0-f141-4c46-bf92-daaac834d7cb)
+
 - Built complete **data pipeline**: web crawling → pre-processing → human validation → DB structuring.
 - Designed generative architecture using **DiT + Flow Matching**, tailored for fine-grained control.
 - Trained on **HPC clusters** using **DeepSpeed + FSDP**, monitored with **Weights & Biases**.
@@ -69,6 +71,8 @@ As a founding member of **NXN LABS**, I led the end-to-end development of a virt
 ### 🧑‍🎨 Virtual Human Generation — *NXN LABS*
 Built controllable and consistent virtual humans using 3D modeling and image generation.
 
+![Image](https://github.com/user-attachments/assets/59f7798b-840e-4ad1-af46-e68f84451cb8)
+
 - Used **SMPL** and **HMR** to map human mesh from 2D inputs.
 - Controlled pose/viewpoint in **Blender**, rendering synthetic 3D conditions.
 - Generated images using **Stable Diffusion**, with **LoRA, ControlNet, Adapter** extensions.
@@ -80,6 +84,8 @@ Built controllable and consistent virtual humans using 3D modeling and image gen
 
 ### 🧬 Pathology Image Detection — *Lunit (Oncology Dept.)*
 Contributed as a research scientist intern to improve cancer detection with transformer architectures.
+
+![Image](https://github.com/user-attachments/assets/273ec7f8-983f-4687-8fd1-95daba02a3c4)
 
 - Introduced **ViT-based backbones** to replace CNNs, achieving significant accuracy improvements.
 - Designed **Multi-FoV Transformer** for better contextual field integration.
