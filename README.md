@@ -14,27 +14,27 @@ My work spans the full stack—from designing novel model architectures and scal
 
 ---
 
-## 🚀 Mission
+## Mission
 
 **To continuously explore uncharted ideas and build AI-driven products and services that deliver real value to people’s lives.**  
 I aim to bridge research and reality, turning technical innovation into meaningful, human-centered experiences.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-🏗️ **Full-stack AI Engineer**  
+**Full-stack AI Engineer**  
 Experienced in leading complete AI pipelines—from data engineering and model design to multi-node training and scalable deployment. Skilled in bridging cutting-edge research with practical infrastructure for interactive, generative AI systems.
 
-🔬 **Researcher**  
+**Researcher**  
 Specialized in computer vision and image generation, with hands-on experience developing transformer-based architectures, diffusion models, and medical imaging applications. Presented at CVPRW and preparing further academic work.
 
-🚀 **Startup Founder**  
+**Startup Founder**  
 As a founding member of **NXN LABS**, I’ve led the development of production-level AI services in the fashion and avatar generation domain. My work is deeply rooted in user impact, rapid iteration, and ownership across the entire product lifecycle.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Deep Learning**  
 PyTorch, CUDA, Diffusers, Transformers, Hugging Face, Detectron2, OpenCV, Numpy, Timm, SMPL
@@ -50,9 +50,9 @@ ComfyUI, Git, GitHub, Notion, Jira, Confluence, Cursor, MCP
 
 ---
 
-## 🌟 Projects
+## Projects
 
-### 👕 Virtual Try-On Platform — *NXN LABS*
+### Virtual Try-On Platform — *NXN LABS*
 As a founding member of **NXN LABS**, I led the end-to-end development of a virtual try-on system for fashion.
 
 ![2](https://github.com/user-attachments/assets/a6bcd15e-d751-4f0f-aec0-7e83f3781704)
@@ -63,11 +63,11 @@ As a founding member of **NXN LABS**, I led the end-to-end development of a virt
 - Evaluated with benchmark scenarios (user-level fidelity, inference time).
 - Deployed full-stack: **FastAPI backend**, optimized inference pipeline, and user-facing UI.
 
-> 📌 A full-stack generative AI system, from raw data to real-time try-on experiences.
+> A full-stack generative AI system, from raw data to real-time try-on experiences.
 
 ---
 
-### 🧑‍🎨 Virtual Human Generation — *NXN LABS*
+### Virtual Human Generation — *NXN LABS*
 Built controllable and consistent virtual humans using 3D modeling and image generation.
 
 ![3](https://github.com/user-attachments/assets/d6e04d9b-5b21-4653-80f0-1d6cf0cbcfee)
@@ -77,11 +77,11 @@ Built controllable and consistent virtual humans using 3D modeling and image gen
 - Generated images using **Stable Diffusion**, with **LoRA, ControlNet, Adapter** extensions.
 - Rapid prototyping with **ComfyUI**, streamlining model and prompt iterations.
 
-> 🎯 Bridging geometry-based modeling and diffusion-based generation for controllable virtual avatars.
+> Bridging geometry-based modeling and diffusion-based generation for controllable virtual avatars.
 
 ---
 
-### 🧬 Pathology Image Detection — *Lunit (Oncology Dept.)*
+### Pathology Image Detection — *Lunit (Oncology Dept.)*
 Contributed as a research scientist intern to improve cancer detection with transformer architectures.
 
 ![4](https://github.com/user-attachments/assets/a80d37dd-78bc-4320-b232-64469fc517f6)
@@ -91,31 +91,31 @@ Contributed as a research scientist intern to improve cancer detection with tran
 - Migrated framework from heatmap detection to **DETR-style regression**, improving mF1 by **+4.5**.
 - Built entire experimental pipeline: **data loader, loss functions, evaluation metrics, visualization tools**.
 
-> 🧪 Demonstrated performance gains of vision transformers in medical image analysis with clinical impact.
+> Demonstrated performance gains of vision transformers in medical image analysis with clinical impact.
 
 ---
 
 
 
-## 🗣️ Talks & Papers
+## Talks & Papers
 
-- 🎤 **CVPR Workshop 2024** - Industry Talk on Commercial Level Image Generation for Fashion Domain, especially Virtual Try-On
-- 📄 **CVPR Workshop 2025 (Upcoming Submission)** - Virtual Try-On & Off through single Transformer [arXiv](blank)
+- **CVPR Workshop 2024** - Industry Talk on Commercial Level Image Generation for Fashion Domain, especially Virtual Try-On
+- **CVPR Workshop 2025 (Upcoming Submission)** - Virtual Try-On & Off through single Transformer [arXiv](blank)
 
 ---
 
-## 📚 Education
+## Education
 
 **KAIST** — B.S. in Mathematics & Electrical Engineering  
 **NYU CAS** — Exchange Student, Fall 2023
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 📧 Email: sylee0802@kaist.ac.kr | sylee080299@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ryanl22)  
-- 🧑‍💻 [GitHub](https://github.com/ryan-seungyong-lee)
+- Email: sylee0802@kaist.ac.kr | sylee080299@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/ryanl22)  
+- [GitHub](https://github.com/ryan-seungyong-lee)
 
 ---
 
