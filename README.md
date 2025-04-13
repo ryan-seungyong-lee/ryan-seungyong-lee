@@ -2,7 +2,7 @@
 
 ---
 
-### [Resume](https://drive.google.com/file/d/1fdgsm_EjQhm5kIEB5nb8YJDus7YK3yC_/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1vMvl7T_GCgYOafz6OxVdvRvsxhcNeTkd/view?usp=sharing)
 
 Hi, I’m SeungYong Lee, an AI research engineer with a passion for building practical systems across **computer vision**, **generative AI**, and **scalable infrastructure**. As a **founding member of an AI startup (NXN LABS)**, I’ve led full-stack development for production-level AI—from raw data collection and model design to large-scale training, deployment, and monitoring.
 
@@ -10,7 +10,7 @@ Educated in mathematics and electrical engineering at KAIST, I’ve built a stro
 
 My work spans the full stack—from designing novel model architectures and scaling multi-node training, to deploying optimized inference pipelines for AI services. Lately, I’ve been exploring **test-time scaling strategies** for **high-quality, controllable, and efficient image generation** and **Multimodal AI** for **agent-based systems**.
 
-![AI Research Engineer](https://github.com/user-attachments/assets/6260eb61-50d8-432e-9d78-d7d16515f099)
+![1](https://github.com/user-attachments/assets/488b1b80-c1a9-4525-a0cf-2814695e5627)
 
 ---
 
@@ -55,7 +55,7 @@ ComfyUI, Git, GitHub, Notion, Jira, Confluence, Cursor, MCP
 ### 👕 Virtual Try-On Platform — *NXN LABS*
 As a founding member of **NXN LABS**, I led the end-to-end development of a virtual try-on system for fashion.
 
-![2](https://github.com/user-attachments/assets/e58a83ec-3bc6-4be4-bc6d-0d47481d8a0a)
+![2](https://github.com/user-attachments/assets/a6bcd15e-d751-4f0f-aec0-7e83f3781704)
 
 - Built complete **data pipeline**: web crawling → pre-processing → human validation → DB structuring.
 - Designed generative architecture using **DiT + Flow Matching**, tailored for fine-grained control.
@@ -70,7 +70,7 @@ As a founding member of **NXN LABS**, I led the end-to-end development of a virt
 ### 🧑‍🎨 Virtual Human Generation — *NXN LABS*
 Built controllable and consistent virtual humans using 3D modeling and image generation.
 
-![3](https://github.com/user-attachments/assets/24ad4679-b295-41c6-ac3f-58ce34cd5592)
+![3](https://github.com/user-attachments/assets/d6e04d9b-5b21-4653-80f0-1d6cf0cbcfee)
 
 - Used **SMPL** and **HMR** to map human mesh from 2D inputs.
 - Controlled pose/viewpoint in **Blender**, rendering synthetic 3D conditions.
@@ -84,7 +84,7 @@ Built controllable and consistent virtual humans using 3D modeling and image gen
 ### 🧬 Pathology Image Detection — *Lunit (Oncology Dept.)*
 Contributed as a research scientist intern to improve cancer detection with transformer architectures.
 
-![4](https://github.com/user-attachments/assets/270b3755-fb20-4e18-b02c-10e585b8b5ca)
+![4](https://github.com/user-attachments/assets/a80d37dd-78bc-4320-b232-64469fc517f6)
 
 - Introduced **ViT-based backbones** to replace CNNs, achieving significant accuracy improvements.
 - Designed **Multi-FoV Transformer** for better contextual field integration.
